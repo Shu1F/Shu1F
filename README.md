@@ -15,6 +15,6 @@ Hi There 👋 My name is Shuichi
 ![](https://nirzak-streak-stats.vercel.app/?user=Shu1F&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu1F&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shu1F&theme=tokyo-night&hide_border=true" height="250px" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shu1F&theme=tokyo-night&hide_border=true" width="100%" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
