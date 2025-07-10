@@ -14,8 +14,8 @@
 ## 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shu1F&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu1F&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Shu1F&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu1F&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 <br/>
 
