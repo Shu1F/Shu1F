@@ -5,10 +5,6 @@
 - 🌍 I’m based in **Japan**
 - 💡 Currently learning **Go**, **Next.js**, **Typescript**
 
-## 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fshu201031@gmail.com)
-
 ## 💻 Tech Stack
 
 **Languages & Frameworks**  
