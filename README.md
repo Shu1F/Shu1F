@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Shuichi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Learning+Ruby%2C+React%2C+Python;Based+in+Japan" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
