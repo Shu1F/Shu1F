@@ -6,7 +6,7 @@
 - 💡 Currently learning **Go**, **Next.js**, **Typescript** and **Flutter**.
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react, nextjs, go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,go)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
