@@ -1,20 +1,7 @@
 # 👋 Hi there, I'm Shuichi
 
-## 🧑‍💻 About Me
-
-- 🌍 I’m based in **Japan**
-- 💡 Currently learning **Go**, **Next.js**, **Typescript** and **Flutter**.
-
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,go)](https://skillicons.dev)
-
-## 📈 GitHub Stats
-
-<div align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Shu1F&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu1F&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
-<br/>
 
 ## 🔍 Activity Graph
 
